@@ -21,7 +21,3 @@ var allItems = document.querySelectorAll("li");
 var allItemWithClass = document.querySelectorAll("li.my-specific-class");
 // console.log(allItems);
 // console.log(allItemWithClass);
-
-// greeting_div.addEventListener("click", function() {
-//   greeting_div.textContent = "Howdy world!";
-// });
